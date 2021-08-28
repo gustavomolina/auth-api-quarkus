@@ -1,1 +1,1 @@
-# auth-api-quarkus
+# API para autenticação feita com Quarkus
